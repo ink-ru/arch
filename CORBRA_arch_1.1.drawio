@@ -510,7 +510,7 @@
         <mxCell id="Ae-MPDusxzvcv9dFBdtw-82" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 26px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Историю платежей сразу реализуем в ClickHouse?&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-530" y="1014.05" width="420" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ae-MPDusxzvcv9dFBdtw-83" value="" style="endArrow=oval;html=1;fontSize=16;fontColor=#10739E;endFill=0;endSize=24;strokeWidth=5;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#10739E;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ae-MPDusxzvcv9dFBdtw-82" target="1a8abee3a6cfdf20-13">
+        <mxCell id="Ae-MPDusxzvcv9dFBdtw-83" value="" style="endArrow=oval;html=1;fontSize=16;fontColor=#10739E;endFill=0;endSize=24;strokeWidth=5;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#10739E;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.055;entryY=0.543;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ae-MPDusxzvcv9dFBdtw-82" target="1a8abee3a6cfdf20-13">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="2340" y="969" as="sourcePoint" />
             <mxPoint x="1160" y="1190" as="targetPoint" />
@@ -531,10 +531,10 @@
         <mxCell id="Ae-MPDusxzvcv9dFBdtw-88" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 26px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Какой инструмент использовать в качестве планировщика?&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-70" y="752" width="420" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ae-MPDusxzvcv9dFBdtw-89" value="" style="endArrow=oval;html=1;fontSize=16;fontColor=#10739E;endFill=0;endSize=24;strokeWidth=5;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#10739E;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.415;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ae-MPDusxzvcv9dFBdtw-88" target="g0c-RjGzhL_h2LVNaWrV-67">
+        <mxCell id="Ae-MPDusxzvcv9dFBdtw-89" value="" style="endArrow=oval;html=1;fontSize=16;fontColor=#10739E;endFill=0;endSize=24;strokeWidth=5;labelBackgroundColor=none;verticalAlign=top;fontStyle=1;strokeColor=#10739E;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ae-MPDusxzvcv9dFBdtw-88">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-310" y="1104" as="sourcePoint" />
-            <mxPoint x="-120" y="1231" as="targetPoint" />
+            <mxPoint x="370" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ae-MPDusxzvcv9dFBdtw-91" value="&lt;font color=&quot;#000033&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;Планировщик&lt;/span&gt;&lt;/font&gt;" style="shape=rect;rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeColor=none;fillColor=#B1DDF0;arcSize=30;fontSize=14;spacingLeft=42;fontStyle=1;fontColor=#FFFFFF;align=left;" vertex="1" parent="1">
